@@ -1,6 +1,6 @@
 # GRU based netowrk to predict temporal distribution of streamflow downstream of the basin
 
-Accompanying code for our "Streamflow Forecasting with Deep Learning Methods" project for CS230 Spring 2020 class. This code is built upon the code repository [2].
+Accompanying code for our "Streamflow Forecasting with Deep Learning Methods" project for CS230 Spring 2020 class. This code is built upon the code repository [2]. Contributors: Rahul Dhakal, JOsue Fonseca, Rohan Pasalkar
 
 ## Content of the repository
 
@@ -14,7 +14,7 @@ Accompanying code for our "Streamflow Forecasting with Deep Learning Methods" pr
 Download this repository either as zip-file or clone it to your local file system by running
 
 ```
-git clone https://github.com/pasalkarr/cs230-hydrology.git
+git clone https://github.com/rrdhakal/Streamflow-Forecasting--Deep-Learning-Method-Stanford-CS-230-.git
 ```
 
 ### Setup Python environment
