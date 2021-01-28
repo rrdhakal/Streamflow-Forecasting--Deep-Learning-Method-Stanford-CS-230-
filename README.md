@@ -2,6 +2,8 @@
 
 Accompanying code for our "Streamflow Forecasting with Deep Learning Methods" project for CS230 Spring 2020 class at Stanford University. This code is built upon the code repository [2]. Contributors: Rahul Dhakal, Josue Fonseca, Rohan Pasalkar
 
+Video Presentation for the project: https://www.youtube.com/watch?v=cX4FHFU7M5I&t=9s
+
 ## Content of the repository
 
 - `main.py` Main python file used for training and evaluating of our models, as well as to perform the robustness analysis
