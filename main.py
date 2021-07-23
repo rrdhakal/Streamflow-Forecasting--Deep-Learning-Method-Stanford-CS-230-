@@ -1,3 +1,4 @@
+#gitcheck
 """
 This file is part of the accompanying code to our manuscript:
 
